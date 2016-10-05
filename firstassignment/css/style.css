@@ -1,0 +1,19 @@
+header{
+	background:rgb(20,30,40);
+	color: blue;
+	
+}
+.wrap li{
+	display: inline;
+}
+.main{
+	padding-left: 10px;
+}
+.main h3{
+	padding-left: 20px;
+	text-align: center;
+	
+}
+article img{
+	padding: 80px 90px 150px 280px;
+}
