@@ -1,19 +1,111 @@
 header{
-	background:rgb(20,30,40);
-	color: blue;
+	
+	background:none;
+   
+	
 	
 }
-.wrap li{
+body{
+	{
+background-color: white;
+background-image: url("hero1.jpg");
+ }
+}
+header h1{ 
+
+text-align: center;
+
+}
+nav li {
+		display:inline;
+}
+.main {
+	padding-top:45px;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	font-size: 15;
+		}
+	aside{
+		margin-bottom: 50px;
+	}
+.main h2{ text-align: center;}
+	.wrap{
+
+			background-color: none ;
+	}
+	.cont
+	{
+		color:white;
+	}
+
+aside li{
+	background: orange;
 	display: inline;
 }
-.main{
-	padding-left: 10px;
+aside img{
+	width: 270px;
+	height: 200px;
+	margin-left: 10PX;
+	border-image: 0px;
+	
 }
-.main h3{
-	padding-left: 20px;
+.hero h3
+{
 	text-align: center;
+	padding-top: 70px;
+	color: white;
 	
 }
 article img{
-	padding: 80px 90px 150px 280px;
+	padding-left: 20px;
+	padding-right: 10px;
+	width: 96%;
+	height: 60%;
+}
+.hero h3{
+	font-family: 'Abril Fatface', cursive;
+}
+.thirdset img{
+
+	padding-left: 20px;
+	padding-top:10px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	height: 100%;
+	width: 90%;
+}
+.new {
+font-family: 'Lobster', cursive;
+font-size: 15px;
+}
+.new section{
+	float: right;
+}
+
+
+footer h2{
+    
+	font-style: italic;
+	font-family: serif;
+	padding-left: 10px;
+
+}
+.social img{
+	height: 20%;
+	width: 20%;
+	padding-top: 10px;
+}
+
+.foot{
+	background-color:none; 
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+
+}
+.foot img{
+	width:50px;
+	height: 50px;
+	padding-left: 200px;
+	margin-bottom: 30px;
+
 }
